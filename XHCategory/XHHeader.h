@@ -18,6 +18,7 @@
 #import "UIColor+DDColor.h"
 #import "UIDevice+DDDevice.h"
 #import "UIImage+DDImage.h"
+#import "NSString+XHAdd.h"
 #import "XHMacro.h"
 
 #endif /* XHHeader_h */

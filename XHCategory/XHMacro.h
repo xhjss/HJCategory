@@ -20,7 +20,7 @@
 #define XHNavigationBar_Height   (ISiPhoneX  ?  88 : 64)
 #define XHTabBar_Height         (ISiPhoneX ? 83.f : 49.f)
 #define XHScreen_Bounds         [UIScreen mainScreen].bounds
-    // 底部安全区域远离高度
+// 底部安全区域远离高度
 #define kBottomSafeHeight  (CGFloat)(ISiPhoneX?(34):(0))
 
 #pragma mark- 系统对象
